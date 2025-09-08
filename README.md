@@ -1,2 +1,2 @@
 # DataCamp-Projects
-Repo for ML tasls from datacamp
+Repo for ML tasks from datacamp 
